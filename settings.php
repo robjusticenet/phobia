@@ -1,5 +1,5 @@
 <?php
-$my_base_url = 'http://phobia.robjustice.net/';
+$my_base_url = 'http://phobia.robjustice.net';
 $my_kliqqi_base = '';
 $dblang = 'en';
 define('table_prefix', 'kliqqi_');
